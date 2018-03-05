@@ -24,6 +24,9 @@ url: "http://archive.tumblenet.ga" # the base hostname & protocol for your site,
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+permalink: pretty
+production: true
+
 # Build settings
 markdown: kramdown
 theme: minima
